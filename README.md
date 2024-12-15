@@ -5,7 +5,7 @@
 <table border="0">
     <!-- <tr>
         <td>👔</td>
-        <td>I’m currently employed at <b><a href="https://www.carevoyance.com/" target="_blank">Carevoyance at H1</a></b>.</td>
+        <td>I’m currently employed at <b><a href="https://www.servicenow.com/" target="_blank">ServiceNow at Hyderabad</a></b>.</td>
     </tr> -->
     <tr>
         <td>📚</td>
@@ -21,7 +21,7 @@
     </tr>
     <tr>
         <td>💬</td>
-        <td>Ask me about <b>Java</b>, <b>Spring Boot</b>, <b>JavaScript</b>, <b>ReactJs</b>, <b>NextJs</b> or <b>MongoDB</b>.</td>
+        <td>Ask me about <b>Web Designing</b> and <b>Full Stack Development</b>.</td>
     </tr>
     <tr>
         <td>📫</td>
@@ -33,7 +33,7 @@
     </tr>
     <tr>
         <td>⚡</td>
-        <td>When I'm not flushing out lines of code, I enjoy <b>travelling</b> 🏔, <b>singing</b> 🎤, <b>playing sports</b> 🏸, <b>gym</b> 💪, and <b>spending time with friends and family</b> 👨‍👩‍👧‍👦.</td>
+        <td>When I'm not flushing out lines of code, I enjoy <b>travelling</b> 🏔, <b>singing</b> 🎤, <b>playing badminton</b> 🏸, <b>gym</b> 💪, and <b>spending time with friends and family</b> 👨‍👩‍👧‍👦.</td>
     </tr>
 </table>
 
@@ -74,4 +74,4 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatgits&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="rajatgits" width="33%" height="100px"/> 
  <img src="https://github-readme-stats.vercel.app/api?username=rajatgits&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="rajatgits" width="33%" height="100px"/>  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatgits&theme=dracula&hide_border=true" alt="rajatgits" width="33%" height="100px"/>
- </div>
+</div>
