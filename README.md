@@ -43,6 +43,11 @@
     </tr>
 </table>
 
+<div>
+<img align="right" src="https://i.gifer.com/DVYt.gif">
+</div>
+<div align="left">
+
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
     <a href="https://twitter.com/rajattwts" target="blank"">
@@ -56,18 +61,41 @@
     </a>
 </p>
 
+<h3 align="center">👨‍💻 Languages and Tools</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=html" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=css" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=sass" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=javascript" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=typescript" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=spring" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=maven" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=react" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=redux" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=docker" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=git" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=prisma" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=expressjs" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=gcp" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=idea" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Skills and tools"/> 
+  </a>
+</p>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajatgits/rajatgits/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajatgits/rajatgits/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajatgits/rajatgits/output/github-contribution-grid-snake.svg">
 </picture>
-
-<h3 align="center">👨‍💻 Languages and Tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,tailwindcss,sass,javascript,typescript,spring,maven,react,redux,nextjs,docker,git,github,mongodb,mysql,prisma,expressjs,gcp,vscode,idea,vercel" alt="Skills and tools"/>
-  </a>
-</p>
 
 <h3 align="center">📊 GitHub Profile Stats</h3>
 <div align="center">
