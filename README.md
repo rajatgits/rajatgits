@@ -9,10 +9,10 @@
 <div align="center"><a href="https://twitter.com/rajattwts" target="blank"><img src="https://img.shields.io/twitter/follow/rajattwts?style=social&logo=x" alt="Follow rajattwts on X (formerly Twitter)" /></a></div>
 
 <table border="0">
-    <tr>
+    <!-- <tr>
         <td>👔</td>
         <td>I’m currently employed at <b><a href="https://www.servicenow.com/" target="_blank">ServiceNow at Hyderabad</a></b>.</td>
-    </tr>
+    </tr> -->
     <tr>
         <td>📚</td>
         <td>I’m currently learning <b>Java</b>, <b>Spring Boot</b>, <b>ReactJs</b>, <b>NextJs</b>, <b>TypeScript</b>, <b>MongoDB</b>, <b>MySQL</b>.</td>
