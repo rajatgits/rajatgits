@@ -3,10 +3,14 @@
 </div>
 
 <h1 align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer" />
+  </a>
 </h1>
 
-<div align="center"><a href="https://twitter.com/rajattwts" target="blank"><img src="https://img.shields.io/twitter/follow/rajattwts?style=social&logo=x" alt="Follow rajattwts on X (formerly Twitter)" /></a></div>
+<div align="center">
+    <a href="https://twitter.com/rajattwts" target="blank"><img src="https://img.shields.io/twitter/follow/rajattwts?style=social&logo=x" alt="Follow rajattwts on X (formerly Twitter)" /></a>
+</div>
 
 <table border="0">
     <!-- <tr>
@@ -15,7 +19,7 @@
     </tr> -->
     <tr>
         <td>📚</td>
-        <td>I’m currently learning <b>Java</b>, <b>Spring Boot</b>, <b>ReactJs</b>, <b>NextJs</b>, <b>TypeScript</b>, <b>MongoDB</b>, <b>MySQL</b>.</td>
+        <td>I’m currently learning <b>Java</b>, <b>Spring Boot</b>, <b>React.js</b>, <b>Next.js</b>, <b>TypeScript</b>, <b>MongoDB</b>, <b>MySQL</b>.</td>
     </tr>
     <tr>
         <td>👯</td>
@@ -44,53 +48,52 @@
 </table>
 
 <div>
-<img align="right" src="https://i.gifer.com/DVYt.gif">
-</div>
-<div align="left">
-
-<h3 align="center">🌐 Connect with me</h3>
-<p align="center">
-    <a href="https://twitter.com/rajattwts" target="blank"">
-        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
-    </a>
-    <a href="https://linkedin.com/in/rajatlinks" target="blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="https://instagram.com/rajat.igs" target="blank"">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-    </a>
-</p>
-
-<h3 align="center">👨‍💻 Languages and Tools</h3>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=html" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=css" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=sass" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=javascript" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=typescript" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=spring" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=maven" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=react" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=redux" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=docker" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=git" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=github" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=mysql" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=prisma" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=expressjs" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=gcp" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=idea" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Skills and tools"/> 
-  </a>
-</p>
+    <img align="right" src="https://i.gifer.com/DVYt.gif">
 </div>
 
+<div>
+    <h3 align="center">🌐 Connect with me</h3>
+    <p align="center">
+        <a href="https://twitter.com/rajattwts" target="blank"">
+            <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
+        </a>
+        <a href="https://linkedin.com/in/rajatlinks" target="blank">
+            <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+        </a>
+        <a href="https://instagram.com/rajat.igs" target="blank"">
+            <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+        </a>
+    </p>
+    <h3 align="center">👨‍💻 Languages and Tools</h3>
+    <p align="left">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=java" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=html" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=css" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=sass" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=javascript" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=typescript" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=spring" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=maven" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=react" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=redux" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=nextjs" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=docker" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=git" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=github" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=mongodb" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=mysql" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=prisma" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=expressjs" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=gcp" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=vscode" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=idea" alt="Skills and tools"/>
+            <img src="https://skillicons.dev/icons?i=vercel" alt="Skills and tools"/> 
+        </a>
+    </p>
+</div>
+    
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajatgits/rajatgits/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajatgits/rajatgits/output/github-contribution-grid-snake.svg">
