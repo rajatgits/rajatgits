@@ -108,7 +108,7 @@
 </div>&nbsp;<br />
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatgits&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="rajatgits" width="33%" height="100px"/> 
- <img src="https://github-readme-stats.vercel.app/api?username=rajatgits&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="rajatgits" width="33%" height="100px"/>  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatgits&theme=dracula&hide_border=true" alt="rajatgits" width="33%" height="100px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatgits&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="rajatgits" width="33%" height="100px"/> 
+ <img src="https://github-readme-stats.vercel.app/api?username=rajatgits&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="rajatgits" width="33%" height="100px"/>  
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatgits&theme=vue-dark&hide_border=true" alt="rajatgits" width="33%" height="100px"/>
 </div>
