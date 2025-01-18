@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://x.com/rajattwts" target="blank">
+    <a href="https://x.com/rajattwts">
         <img src="https://img.shields.io/twitter/follow/rajattwts" alt="Follow rajattwts on X (formerly Twitter)" />
     </a>
 </p>
@@ -27,7 +27,7 @@
     </tr>
     <tr>
         <td>✍🏻</td>
-        <td>Explore some of my technical blogs on <b><a href="https://dev.to/rajatblogs/" target="_blank">DEV</a></b>.</td>
+        <td>Explore some of my technical blogs on <b><a href="https://dev.to/rajatblogs/">DEV</a></b>.</td>
     </tr>
     <tr>
         <td>💬</td>
@@ -35,11 +35,11 @@
     </tr>
     <tr>
         <td>📫</td>
-        <td>You can reach me on <b><a href="https://x.com/rajattwts" target="_blank">X</a></b> or via <b><a href="mailto:rajatrajemails@gmail.com" target="_blank">email</a></b>.</td>
+        <td>You can reach me on <b><a href="https://x.com/rajattwts">X</a></b> or via <b><a href="mailto:rajatrajemails@gmail.com">email</a></b>.</td>
     </tr>
     <tr>
         <td>📄</td>
-        <td>Learn more about my professional experience on <b><a href="https://www.linkedin.com/in/rajatlnkdins" target="_blank">LinkedIn</a></b> or <b><a href="https://github.com/rajatgits/rajatgits/raw/master/Rajat_Raj_Resume.pdf">download my resume</a></b>.</td>
+        <td>Learn more about my professional experience on <b><a href="https://www.linkedin.com/in/rajatlnkdins">LinkedIn</a></b> or <b><a href="https://github.com/rajatgits/rajatgits/raw/master/Rajat_Raj_Resume.pdf">download my resume</a></b>.</td>
     </tr>
     <tr>
         <td>⚡</td>
@@ -51,13 +51,13 @@
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-    <a href="https://x.com/rajattwts" target="_blank">
+    <a href="https://x.com/rajattwts">
         <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" />
     </a>
-    <a href="https://www.linkedin.com/in/rajatlnkdins" target="_blank">
+    <a href="https://www.linkedin.com/in/rajatlnkdins">
         <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" />
     </a>
-    <a href="https://instagram.com/rajat.igs" target="_blank">
+    <a href="https://instagram.com/rajat.igs">
         <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" />
     </a>
 </p>
@@ -86,9 +86,11 @@
     <img src="https://skillicons.dev/icons?i=gcp" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=vscode" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=idea" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=postman" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=vercel" alt="Skills and tools"/> 
 </p>
-    
+
+<h3 align="center">📈 GitHub Contributions</h3> 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajatgits/rajatgits/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajatgits/rajatgits/output/github-contribution-grid-snake.svg">
