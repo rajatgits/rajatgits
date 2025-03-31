@@ -13,10 +13,10 @@
 </p>
 
 <table border="0">
-    <!-- <tr>
+    <tr>
         <td>👔</td>
-        <td>I’m currently employed at <b><a href="https://www.servicenow.com/" target="_blank">ServiceNow at Hyderabad</a></b>.</td>
-    </tr> -->
+        <td>I’m currently employed at <b><a href="https://www.wipro.com/">Wipro at Hyderabad</a></b>.</td>
+    </tr>
     <tr>
         <td>📚</td>
         <td>I’m currently learning <b>Java</b>, <b>Spring Boot</b>, <b>React.js</b>, <b>Next.js</b>, <b>TypeScript</b>, <b>MongoDB</b>, <b>MySQL</b>.</td>
