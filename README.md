@@ -39,7 +39,7 @@
     </tr>
     <tr>
         <td>📄</td>
-        <td>Learn more about my professional experience on <b><a href="https://www.linkedin.com/in/rajatlnkdins">LinkedIn</a></b> or <b><a href="https://github.com/rajatgits/rajatgits/raw/master/Rajat_Raj_Resume.pdf">download my resume</a></b>.</td>
+        <td>Learn more about my professional experience on <b><a href="https://www.linkedin.com/in/rajatlnkdins">LinkedIn</a></b> or <b><a href="https://github.com/rajatgits/rajatgits/raw/readme/Rajat_Raj_Resume.pdf">download my resume</a></b>.</td>
     </tr>
     <tr>
         <td>⚡</td>
