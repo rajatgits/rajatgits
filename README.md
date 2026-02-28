@@ -80,12 +80,14 @@
     <img src="https://skillicons.dev/icons?i=git" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=github" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=mongodb" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=mysql" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=postgres" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=prisma" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=expressjs" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=gcp" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=vscode" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=idea" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=kafka" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=redis" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=postman" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=vercel" alt="Skills and tools"/> 
 </p>
