@@ -104,7 +104,7 @@
     </a>
 </p>&nbsp;<br />
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatgits&theme=vue-dark&hide_border=true" alt="rajatgits" width="46%" height="100px"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&pause=1000&color=36BEF9&center=true&width=500&lines=A+TENACIOUS+nerd+with+a+coffee...%F0%9F%8D%B5" alt="Typing SVG" width="46%" height="118px"/>
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatgits&theme=vue-dark&hide_border=true" alt="rajatgits" width="46%" height="100px"  style="min-width: 300px;"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&pause=1000&color=36BEF9&center=true&width=500&lines=A+TENACIOUS+nerd+with+a+coffee...%F0%9F%8D%B5" alt="Typing SVG" width="46%" height="100px"  style="min-width: 300px;"/>
 </p>
