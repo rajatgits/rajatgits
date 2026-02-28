@@ -106,5 +106,5 @@
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatgits&theme=vue-dark&hide_border=true" alt="rajatgits" width="46%" height="100px"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Rye&size=21&pause=1000&color=38C2FF&center=true&vCenter=true&width=438&height=60&lines=A+TENACIOUS+nerd+with+a+coffee+%E2%98%95" alt="Typing SVG" width="46%" height="100px"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Rye&size=21&pause=1000&color=38C2FF&center=true&width=438&height=60&lines=A+TENACIOUS+nerd+with+a+coffee+%E2%98%95" alt="Typing SVG" width="46%" height="100px"/>
 </p>
