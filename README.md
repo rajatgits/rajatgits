@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rye&size=28&pause=1000&color=36BEF9&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" />
 </h1>
 
 <p align="center">
