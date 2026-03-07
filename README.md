@@ -65,23 +65,22 @@
 <h3 align="center">👨‍💻 Languages and Tools</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=java" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=html" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=css" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=sass" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=javascript" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=typescript" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=spring" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=maven" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=gradle" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=react" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=redux" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=nextjs" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=docker" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=git" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=github" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=jenkins" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=mongodb" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=postgres" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=hibernate" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=prisma" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=appwrite" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=expressjs" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=gcp" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=vscode" alt="Skills and tools"/>
