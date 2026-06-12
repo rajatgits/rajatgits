@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://x.com/rajattwts">
-        <img src="https://img.shields.io/twitter/follow/rajattwts?style=flat-square&logo=x&labelColor=%23000&color=%23000" alt="Follow rajattwts on X (formerly Twitter)" />
+        <img src="https://img.shields.io/twitter/follow/rajattwts" alt="Follow rajattwts on X (formerly Twitter)" />
     </a>
 </p>
 
@@ -101,7 +101,7 @@
 <h3 align="center">📊 GitHub Profile Stats</h3>
 <p align="center">
     <a href="#">
-        <img src="https://komarev.com/ghpvc/?username=rajatgits&style=for-the-badge" alt="rajatgits" />
+        <img src="https://komarev.com/ghpvc/?username=rajatgits&style=flat-square" alt="rajatgits" />
     </a>
 </p>&nbsp;<br />
 
