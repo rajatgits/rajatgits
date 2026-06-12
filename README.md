@@ -109,6 +109,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatgits&theme=vue-dark&hide_border=true" alt="rajatgits" width="46%" height="100px"/>
     <img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&pause=1000&color=36BEF9&center=true&vCenter=true&width=500&height=150&lines=A+TENACIOUS+nerd+with+a+coffee...%F0%9F%8D%B5" alt="Typing SVG" width="46%" height="100px"/>
 </p>
+
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </p>
