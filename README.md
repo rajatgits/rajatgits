@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Rye&size=28&pause=1000&color=36BEF9&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rye&size=28&pause=1000&color=36BEF9&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Backend+Developer...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td>📚</td>
-        <td>I’m currently learning <b>Java</b>, <b>Spring Boot</b>, <b>React.js</b>, <b>Next.js</b>, <b>TypeScript</b>, <b>MongoDB</b>, <b>MySQL</b>.</td>
+        <td>I’m currently learning <b>Java</b>, <b>Spring Boot</b>, <b>Spring AI</b>, <b>React.js</b>, <b>Next.js</b>, <b>MongoDB</b>, <b>MySQL</b>.</td>
     </tr>
     <tr>
         <td>👯</td>
@@ -31,7 +31,7 @@
     </tr>
     <tr>
         <td>💬</td>
-        <td>Ask me about <b>Web Designing</b> and <b>Full Stack Development</b>.</td>
+        <td>Ask me about <b>GenAI</b> and <b>Backend Development</b>.</td>
     </tr>
     <tr>
         <td>📫</td>
@@ -65,8 +65,6 @@
 <h3 align="center">👨‍💻 Languages and Tools</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=java" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=javascript" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=typescript" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=spring" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=maven" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=gradle" alt="Skills and tools"/>
@@ -80,9 +78,9 @@
     <img src="https://skillicons.dev/icons?i=postgres" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=hibernate" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=prisma" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=appwrite" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=expressjs" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=gcp" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=azure" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=vscode" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=idea" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=kafka" alt="Skills and tools"/>
