@@ -101,7 +101,7 @@
 <h3 align="center">📊 GitHub Profile Stats</h3>
 <p align="center">
     <a href="#">
-        <img src="https://komarev.com/ghpvc/?username=rajatgits&label=Profile%20views&color=0e75b6&style=flat" alt="rajatgits" />
+        <img src="https://komarev.com/ghpvc/?username=rajatgits&style=flat-square" alt="rajatgits" />
     </a>
 </p>&nbsp;<br />
 
