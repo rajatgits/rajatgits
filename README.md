@@ -43,7 +43,7 @@
     </tr>
     <tr>
         <td>⚡</td>
-        <td>When I'm not flushing out lines of code, I enjoy <b>travelling</b> 🏔, <b>singing</b> 🎤, <b>playing badminton</b> 🏸, <b>gym</b> 💪, and <b>spending time with friends and family</b> 👨‍👩‍👧‍👦.</td>
+        <td>When I'm not flushing out lines of code, I enjoy <b>travelling</b> 🏔, <b>singing</b> 🎤, <b>playing badminton</b> 🏸, <b>gym</b> 💪, and <b>spending time with family and friends</b> 👨‍👩‍👧‍👦.</td>
     </tr>
 </table>
 
