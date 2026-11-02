@@ -57,9 +57,6 @@
     <a href="https://www.linkedin.com/in/rajatlnkdins">
         <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" />
     </a>
-    <a href="https://instagram.com/rajat.igs">
-        <img width="50px" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" />
-    </a>
 </p>
     
 <h3 align="center">👨‍💻 Languages and Tools</h3>
@@ -67,24 +64,28 @@
     <img src="https://skillicons.dev/icons?i=java" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=spring" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=maven" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=gradle" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=react" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=docker" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=git" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=github" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=jenkins" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=postgres" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=hibernate" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=prisma" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=expressjs" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=gcp" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=azure" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Skills and tools"/>
-    <img src="https://skillicons.dev/icons?i=idea" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=kafka" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=redis" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=jenkins" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=prometheus" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=grafana" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=postgres" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=hibernate" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=docker" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=git" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=javascript" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=typescript" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=react" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=gcp" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=aws" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=idea" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=postman" alt="Skills and tools"/>
     <img src="https://skillicons.dev/icons?i=vercel" alt="Skills and tools"/> 
 </p>
