@@ -15,15 +15,15 @@
 <table border="0">
     <tr>
         <td>👔</td>
-        <td>I’m currently employed at <b><a href="https://www.wipro.com/">Wipro at Hyderabad</a></b>.</td>
+        <td>I’m currently working as a <b>Software Engineer at <a href="https://www.wipro.com/">Wipro</a></b> in Hyderabad, building scalable <b>Spring Boot microservices</b> and optimizing backend systems.</td>
     </tr>
     <tr>
         <td>📚</td>
-        <td>I’m currently learning <b>Java</b>, <b>Spring Boot</b>, <b>Spring AI</b>, <b>React.js</b>, <b>Next.js</b>, <b>MongoDB</b>, <b>MySQL</b>.</td>
+        <td>I’m currently deepening my expertise in <b>GenAI (Spring AI, LangChain4j, RAG, Vector DBs)</b>, <b>System Design</b>, and <b>Cloud Architecture</b>.</td>
     </tr>
     <tr>
         <td>👯</td>
-        <td>I’m looking to collaborate on <b>a new idea surrounding git versioning</b>.</td>
+        <td>I’m looking to collaborate on <b>innovative backend projects</b> and <b>a new idea surrounding git versioning</b>.</td>
     </tr>
     <tr>
         <td>✍🏻</td>
@@ -31,15 +31,15 @@
     </tr>
     <tr>
         <td>💬</td>
-        <td>Ask me about <b>GenAI</b> and <b>Backend Development</b>.</td>
+        <td>Ask me about <b>Java</b>, <b>Spring Boot</b>, <b>Microservices</b>, <b>GenAI</b>, and <b>Backend Development</b>.</td>
     </tr>
     <tr>
         <td>📫</td>
-        <td>You can reach me on <b><a href="https://x.com/rajattwts">X</a></b> or via <b><a href="mailto:rajatrajemails@gmail.com">email</a></b>.</td>
+        <td>You can reach me on <b><a href="https://x.com/rajattwts">X</a></b> or via <b><a href="mailto:rajatrajemails@gmail.com">email</a></b>. Let's connect on <b><a href="https://www.linkedin.com/in/rajatlnkdins">LinkedIn</a></b>.</td>
     </tr>
     <tr>
         <td>📄</td>
-        <td>Learn more about my professional experience on <b><a href="https://www.linkedin.com/in/rajatlnkdins">LinkedIn</a></b> or <b><a href="https://github.com/rajatgits/rajatgits/raw/main/Rajat_Raj_Resume.pdf">download my resume</a></b>.</td>
+        <td>Learn more about my professional experience by downloading my <b><a href="https://github.com/rajatgits/rajatgits/raw/main/Rajat_Raj_Resume.pdf">Resume</a></b>.</td>
     </tr>
     <tr>
         <td>⚡</td>
