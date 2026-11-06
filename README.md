@@ -48,7 +48,7 @@
 </table>
 
 <p align="center">
-    <img align="right" src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=rajatgits&theme=mac&color=1" width="50%" height="50%">
+    <img align="right" src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=rajatgits&theme=mac&color=1" width="56%" height="56%">
     <h3 align="center">🌐 Connect with me</h3>
     <p align="center">
         <a href="https://x.com/rajattwts">
